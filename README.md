@@ -1,3 +1,14 @@
+Project implemented by: PANDEESWARAN T
+LOGIN DETAIL:
+ E-MAIL: vptpandeeswaran@gmail.com
+ Password: Pandi@2004
+
+
+
+
+
+
+
 # E - Voting Created Using Django 
 This E - Voting System Was Developed With Django(Python Framework).
 Feel free to make changes based on your requirements.
